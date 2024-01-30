@@ -36,6 +36,9 @@ public class MayTinh {
 			case "^" : return (float)Casio.tinhLT(so1, so2);
 
 		}
+		
+		
+		
 		return 0;
 	}
 	
